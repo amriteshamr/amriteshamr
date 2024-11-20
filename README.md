@@ -1,5 +1,5 @@
 # 💫 About Me:
-A passionate graphic designer exploring the world of python programming
+Python developer with a focus on AI & ML, constantly exploring and learning new technologies to drive innovation.
 
 
 ## 🌐 Socials:
